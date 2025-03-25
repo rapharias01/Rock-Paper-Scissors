@@ -1,5 +1,4 @@
 # Rock-Paper-Scissors
-# Rock-Paper-Scissors
 Jogo de Pedra, Papel e Tesoura desenvolvido em Flutter.
 ## 📸 Capturas de Tela
 ![alt text](pedrapapeltesoura/assets/images/image.png)
